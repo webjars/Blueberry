@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>Blueberry</artifactId>
-    <version>2278fd2-SNAPSHOT</version>
+    <version>2278fd2</version>
     <name>jQuery Blueberry Slider</name>
     <description>WebJar for jQuery Blueberry Slider</description>
     <url>http://webjars.org</url>
@@ -54,7 +54,7 @@
         <url>http://github.com/webjars/Blueberry</url>
         <connection>scm:git:https://github.com/webjars/Blueberry.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/Blueberry.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>Blueberry-2278fd2</tag>
     </scm>
     
     <dependencies>
